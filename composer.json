@@ -1,0 +1,11 @@
+{
+    "name": "dendude/otus-1-2-6",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Kravtsov",
+            "email": "denis.kravtsov.1986@mail.ru"
+        }
+    ],
+    "require": {}
+}
